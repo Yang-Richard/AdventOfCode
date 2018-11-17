@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # AdventofCode
 # 2017 Day 1 - Nov 15, 2018 (for fun)
 # Output: The total sums in part 1 and part 2 are 1341 and 1348.
