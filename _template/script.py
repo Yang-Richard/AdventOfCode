@@ -1,12 +1,15 @@
 #!/usr/bin/python
 
-input = 
+filepath = '.txt'
 
 def main(var):
-	for line in input.input():
-		line = line.strip()
-		line = [int(n) for n in line.split()]
-	return result
+	with open(filepath) as f:
+        for line in f.readlines():
+            nums.append(int(line))
+        f.close()
+
+    return result1, result2
 
 if __name__ == '__main__':
-	print("{}.".format(main(part1)))
+	result = main()
+    print("{},{}".format(result[0], result[1]))
