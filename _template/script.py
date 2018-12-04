@@ -1,15 +1,18 @@
 #!/usr/bin/python
 
-filepath = '.txt'
+filepath = 'input.txt'
 
-def main(var):
-	with open(filepath) as f:
+def main():
+    nums = []
+    result1 , result2 = 0, 0
+    with open(filepath) as f:
         for line in f.readlines():
-            nums.append(int(line))
+            nums.append(line)
         f.close()
+        
+    print(nums)
 
     return result1, result2
 
 if __name__ == '__main__':
-	result = main()
-    print("{},{}".format(result[0], result[1]))
+    print(main())
