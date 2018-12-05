@@ -2,7 +2,10 @@
 
 filepath = 'input.txt'
 
-def main():
+from datetime import datetime
+startTime = datetime.now()
+
+def main() -> "result1, result2":
     nums = []
     result1 , result2 = 0, 0
     with open(filepath) as f:
@@ -15,4 +18,4 @@ def main():
     return result1, result2
 
 if __name__ == '__main__':
-    print(main())
+    print(main(), str(datetime.now() - startTime)[:-3])
