@@ -1,2 +1,7 @@
-.ipynb_checkpoints
+checkpoints
 testing
+test
+_template.py
+_template.ipynb
+.DS_Store
+__pycache__
