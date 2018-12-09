@@ -5,3 +5,5 @@ _template.py
 _template.ipynb
 .DS_Store
 __pycache__
+*ec2*
+*.pem*
