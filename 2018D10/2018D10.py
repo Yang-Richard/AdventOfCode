@@ -18,7 +18,6 @@ def main():
             speed.append([read[2], read[3]*-1])
         f.close()
 
-    
     app = QtGui.QApplication([])
     win = pg.GraphicsWindow()
     p1 = win.addPlot(title="plot1")
