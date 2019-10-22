@@ -1,3 +1,5 @@
 # Advent of Code
 
-This is my repository for the AdventOfCode challenge. Probably mostly python. The objective is to compelete two stars **[\**]** on every challenge in the shortest amount of time, while still maintaining clean formatting practices. 
+My repository for the yearly [Advent of Code](https://adventofcode.com/) challenge in December. Probably mostly in Python 3. 
+
+A new challenge unlocks each day at midnight, the goal is to achieve the daily two stars in the shortest amount of time.
