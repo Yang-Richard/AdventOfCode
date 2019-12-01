@@ -11,11 +11,11 @@ A new challenge unlocks each day at midnight, the goal is to achieve the daily t
 |   25  |            |            |            |:star:      |            |
 |   24  |            |            |            |            |            |
 |   23  |            |            |            |            |            |
-|   22  |            |            |            |:star:      |            |
-|   21  |            |            |            |            |            |
-|   20  |            |            |:star::star:|            |            |
-|   19  |            |:star::star:|:star::star:|:star:      |            |
-|   18  |            |:star::star:|:star::star:|:star::star:|            |
+|   22  |:star::star:|            |            |:star:      |            |
+|   21  |:star::star:|            |            |            |            |
+|   20  |:star::star:|            |:star::star:|            |            |
+|   19  |:star:      |:star::star:|:star::star:|:star:      |            |
+|   18  |:star::star:|:star::star:|:star::star:|:star::star:|            |
 |   17  |:star::star:|            |:star::star:|            |            |
 |   16  |:star::star:|:star::star:|:star::star:|:star::star:|            |
 |   15  |:star::star:|:star::star:|:star::star:|            |            |
@@ -32,6 +32,6 @@ A new challenge unlocks each day at midnight, the goal is to achieve the daily t
 |   4   |:star::star:|:star::star:|:star::star:|:star::star:|            |
 |   3   |:star::star:|:star::star:|:star::star:|:star::star:|            |
 |   2   |:star::star:|:star::star:|:star::star:|:star::star:|            |
-|   1   |:star::star:|:star::star:|:star::star:|:star::star:|            |
-|**TOT**|     34     |     34     |     40     |     35     |     0      |
+|   1   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
+|**TOT**|     43     |     34     |     40     |     35     |     2      |
 

@@ -1,0 +1,12 @@
+Promethium
+Cobalt
+Curium
+Ruthenium
+Plutonim
+
+F4 .  .  .  .  .  .  .  .  .  .  . 
+F3 .  .  .  .  BM .  CM .  DM .  EM
+F2 .  .  .  BG .  CG .  DG .  EG . 
+F1 E  AG AM .  .  .  .  .  .  .  . 
+
+
