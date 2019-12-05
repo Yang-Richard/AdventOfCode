@@ -8,12 +8,12 @@ A new challenge unlocks each day at midnight, the goal is to achieve the daily t
 
 |       |    2015    |    2016    |    2017    |    2018    |    2019    |
 |:-----:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|   25  |            |            |            |:star:      |            |
+|   25  |:star:      |            |            |:star:      |            |
 |   24  |            |            |            |            |            |
 |   23  |            |            |            |            |            |
-|   22  |:star::star:|            |            |:star:      |            |
+|   22  |:star::star:|            |:star::star:|:star:      |            |
 |   21  |:star::star:|            |            |            |            |
-|   20  |:star::star:|            |:star::star:|            |            |
+|   20  |:star::star:|:star::star:|:star::star:|            |            |
 |   19  |:star:      |:star::star:|:star::star:|:star:      |            |
 |   18  |:star::star:|:star::star:|:star::star:|:star::star:|            |
 |   17  |:star::star:|            |:star::star:|            |            |
@@ -29,9 +29,9 @@ A new challenge unlocks each day at midnight, the goal is to achieve the daily t
 |   7   |:star::star:|:star::star:|:star::star:|:star::star:|            |
 |   6   |:star::star:|:star::star:|:star::star:|:star::star:|            |
 |   5   |:star::star:|:star::star:|:star::star:|:star::star:|            |
-|   4   |:star::star:|:star::star:|:star::star:|:star::star:|            |
-|   3   |:star::star:|:star::star:|:star::star:|:star::star:|            |
-|   2   |:star::star:|:star::star:|:star::star:|:star::star:|            |
+|   4   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
+|   3   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
+|   2   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
 |   1   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
-|**TOT**|     43     |     34     |     40     |     35     |     2      |
+|**TOT**|     44     |     36     |     42     |     35     |     8      |
 
