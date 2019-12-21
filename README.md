@@ -10,7 +10,7 @@ A new challenge unlocks each day at midnight, the goal is to achieve the daily t
 |:-----:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |   25  |:star:      |            |            |:star:      |            |
 |   24  |            |:star::star:|            |            |            |
-|   23  |:star::star:|            |            |            |            |
+|   23  |:star::star:|:star::star:|            |:star:      |            |
 |   22  |            |:star:      |:star::star:|:star:      |            |
 |   21  |:star::star:|:star::star:|            |            |            |
 |   20  |:star::star:|:star::star:|:star::star:|            |            |
@@ -20,10 +20,10 @@ A new challenge unlocks each day at midnight, the goal is to achieve the daily t
 |   16  |:star::star:|:star::star:|:star::star:|:star::star:|            |
 |   15  |:star::star:|:star::star:|:star::star:|            |            |
 |   14  |:star::star:|:star::star:|:star::star:|:star::star:|            |
-|   13  |:star::star:|:star::star:|:star::star:|:star::star:|            |
-|   12  |:star::star:|:star::star:|:star::star:|:star::star:|            |
-|   11  |:star::star:|            |:star::star:|:star::star:|            |
-|   10  |:star::star:|:star::star:|:star::star:|:star::star:|            |
+|   13  |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
+|   12  |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
+|   11  |:star::star:|            |:star::star:|:star::star:|:star::star:|
+|   10  |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
 |   9   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
 |   8   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
 |   7   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
@@ -33,5 +33,5 @@ A new challenge unlocks each day at midnight, the goal is to achieve the daily t
 |   3   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
 |   2   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
 |   1   |:star::star:|:star::star:|:star::star:|:star::star:|:star::star:|
-|**TOT**|     44     |     43     |     42     |     35     |     18      |
+|**TOT**|     44     |     45     |     42     |     36     |     26     |
 
