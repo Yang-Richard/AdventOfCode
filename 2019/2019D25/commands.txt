@@ -1,0 +1,42 @@
+south
+take spool of cat6
+west
+take space heater
+south
+take shell
+north
+north
+take weather machine
+north
+west
+west
+take whirled peas
+east
+east
+south
+west
+south
+east
+take candy cane
+west
+south
+take space law space brochure
+north
+north
+east
+south
+east
+east
+south
+take hypercube
+south
+south
+inv
+drop spool of cat6
+drop space heater
+drop shell
+drop weather machine
+drop whirled peas
+drop candy cane
+drop space law space brochure
+drop hypercube
